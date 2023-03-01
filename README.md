@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+### Thanks for visiting my profile. I'm a software engineer based in Finland.
+
+- 🌱 I’m currently learning React
+
+- 📫 How to reach me: 
+- GitHub: https://github.com/asraful
+- LinkedIn: https://www.linkedin.com/in/asrafulchowdhury
+- Email: asraful.forhad.chowdhury@gmail.com
+
 <!--
 **asraful/asraful** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

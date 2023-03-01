@@ -5,8 +5,8 @@
 - 🌱 I’m currently learning React
 
 - 📫 How to reach me: 
-- GitHub: https://github.com/asraful
-- LinkedIn: https://www.linkedin.com/in/asrafulchowdhury
+- GitHub: [asraful](https://github.com/asraful)
+- LinkedIn: [asrafulchowdhury](https://www.linkedin.com/in/asrafulchowdhury)
 - Email: asraful.forhad.chowdhury@gmail.com
 
 <!--

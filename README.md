@@ -2,7 +2,7 @@
 
 ### Thanks for visiting my profile. I'm a software engineer based in Finland.
 
-- 🌱 I’m currently learning React
+- 🌱 Open to learn !
 
 - 📫 How to reach me: 
 - GitHub: [asraful](https://github.com/asraful)

@@ -7,6 +7,7 @@
 - 📫 How to reach me: 
 - GitHub: [asraful](https://github.com/asraful)
 - LinkedIn: [asrafulchowdhury](https://www.linkedin.com/in/asrafulchowdhury)
+- Medium:  [writing](https://medium.com/@asraful.cse)
 
 <!--
 **asraful/asraful** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
